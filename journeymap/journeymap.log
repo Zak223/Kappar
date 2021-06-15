@@ -24,3 +24,29 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, ve
 [10:38:29] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
 [10:38:42] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
 [10:38:42] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[10:40:01] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.global.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.global.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.default.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.default.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim0 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim0.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim0 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim0.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-1 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-1.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-1 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim-1.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim1 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim1.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim1 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim1.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-11325 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-11325.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-11325 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim-11325.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-9999 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-9999.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-9999 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim-9999.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim4598 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim4598.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim4598 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim4598.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-2 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-2.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim-2 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim-2.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim2 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim2.config
+[10:40:01] [Server thread/INFO] [PropertiesBase] dim2 (Valid) Creating config file: D:\Users\dylan\AppData\Instances\Kappar\journeymap\server\5.7\journeymap.server.dim2.config
+[10:40:06] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[10:40:06] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[10:40:06] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World\waypoints
+[10:40:06] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World\DIM0. Memory: 4785MB total, 2715MB free 
+[10:40:06] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[10:41:19] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World\DIM0
