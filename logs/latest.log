@@ -9844,3 +9844,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'mineraft:stone'
 [11:24:24] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 46%
 [11:24:29] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 49%
 [11:24:34] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 52%
+[11:24:39] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 54%
+[11:24:44] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 57%
+[11:24:49] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 60%
+[11:24:54] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 64%
+[11:24:59] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 68%
+[11:25:04] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 71%
+[11:25:09] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 74%
+[11:25:14] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 77%
+[11:25:19] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 80%
+[11:25:24] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 83%
+[11:25:29] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 85%
+[11:25:34] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 88%
+[11:25:39] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 91%
+[11:25:44] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 93%
+[11:25:49] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 96%
+[11:25:54] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 99%
+[11:25:55] [ThaumicJEI Aspect Cache/INFO]: Finished Aspect ItemStack Thread.
+[11:26:41] [Client thread/INFO]: Stopping!
+[11:26:41] [Client thread/INFO]: SoundSystem shutting down...
+[11:26:41] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
