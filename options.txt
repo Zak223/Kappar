@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:1.0
 gamma:0.0
 saturation:0.0
 renderDistance:12
@@ -29,7 +29,7 @@ fullscreen:true
 enableVsync:true
 useVbo:false
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -111,6 +111,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.toggleAutojump:48
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -118,7 +119,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
 key_key.toggle_shaders:0
 key_bloodmagic.keybind.open_holding:35

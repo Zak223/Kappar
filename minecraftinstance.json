@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-16T11:42:46.6050368Z",
-  "playedCount": 14,
+  "lastPlayed": "2021-06-16T14:12:52.712991Z",
+  "playedCount": 22,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -39,16 +39,16 @@
   "fileID": 0,
   "customAuthor": null,
   "modpackOverrides": null,
-  "isMemoryOverride": false,
-  "allocatedMemory": 4096,
+  "isMemoryOverride": true,
+  "allocatedMemory": 8544,
   "guid": "5a3d075b-08a8-49b3-9794-523ec6250f96",
   "gameTypeID": 432,
-  "installPath": "D:\\Users\\dylan\\AppData\\Instances\\Kappar\\",
+  "installPath": "C:\\Users\\Zach\\Twitch\\Minecraft\\Instances\\Kappar\\",
   "name": "Kappar",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-06-16T11:59:31.8686383Z",
-  "lastRefreshAttempt": "2021-06-16T07:59:38.4111506-04:00",
+  "lastPreviousMatchUpdate": "2021-06-16T13:23:23.1044438Z",
+  "lastRefreshAttempt": "2021-06-16T09:23:27.5718396-04:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -335,7 +335,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1727,7 +1727,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2028,6 +2028,157 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 246996,
+      "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
+      "installedFile": {
+        "id": 2722575,
+        "displayName": "base-1.12.2-3.13.0.jar",
+        "fileName": "base-1.12.2-3.13.0.jar",
+        "fileDate": "2019-06-09T22:04:30.68Z",
+        "fileLength": 685028,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2722/575/base-1.12.2-3.13.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 324652980,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2573585935,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 517476909,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1188982169,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2088180633,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 503243924,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "base-1.12.2-3.13.0.jar"
+      },
+      "dateInstalled": "2021-06-16T14:12:23.6624285Z",
+      "dateUpdated": "2021-06-16T14:12:23.6729383Z",
+      "dateLastUpdateAttempted": "2021-06-16T14:12:23.6729383Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 282743,
+      "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
+      "installedFile": {
+        "id": 2577684,
+        "displayName": "DiscordSuite-2.2.4.jar",
+        "fileName": "DiscordSuite-2.2.4.jar",
+        "fileDate": "2018-06-29T16:22:23.12Z",
+        "fileLength": 32571,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2577/684/DiscordSuite-2.2.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1732838517,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2829751895,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3871603052,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 693304414,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.9.4",
+          "1.10.2",
+          "1.11",
+          "1.10.1",
+          "1.10",
+          "1.11.1",
+          "1.11.2",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2016-05-10T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "DiscordSuite-2.2.4.jar"
+      },
+      "dateInstalled": "2021-06-16T14:07:24.3146707Z",
+      "dateUpdated": "2021-06-16T14:07:24.5518748Z",
+      "dateLastUpdateAttempted": "2021-06-16T14:07:24.5518748Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 247007,
@@ -3114,7 +3265,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3187,7 +3338,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3399,7 +3550,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3486,7 +3637,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3690,6 +3841,85 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 237065,
+      "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
+      "installedFile": {
+        "id": 3331364,
+        "displayName": "ContentTweaker-1.12.2-4.10.0.jar",
+        "fileName": "ContentTweaker-1.12.2-4.10.0.jar",
+        "fileDate": "2021-05-31T18:29:12.857Z",
+        "fileLength": 278152,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3331/364/ContentTweaker-1.12.2-4.10.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3368698024,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2804302505,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2284558611,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2532280598,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2491132539,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ContentTweaker-1.12.2-4.10.0.jar"
+      },
+      "dateInstalled": "2021-06-16T14:06:49.9736878Z",
+      "dateUpdated": "2021-06-16T14:06:49.9947057Z",
+      "dateLastUpdateAttempted": "2021-06-16T14:06:49.9947057Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 231484,
@@ -4494,7 +4724,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5120,6 +5350,96 @@
       "installedTargets": null
     },
     {
+      "addonID": 250577,
+      "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
+      "installedFile": {
+        "id": 2648656,
+        "displayName": "AkashicTome-1.2-12.jar",
+        "fileName": "AkashicTome-1.2-12.jar",
+        "fileDate": "2018-12-15T23:37:09.713Z",
+        "fileLength": 44663,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2648/656/AkashicTome-1.2-12.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 21894608,
+            "addonId": 250363,
+            "type": 3,
+            "fileId": 2648656
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1248440037,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 30789144,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 13111402,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 396473483,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3030749418,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1484734,
+        "projectId": 250577,
+        "packageFingerprintId": 280693916,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1715312,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "AkashicTome-1.2-12.jar"
+      },
+      "dateInstalled": "2021-06-16T13:23:22.9888443Z",
+      "dateUpdated": "2021-06-16T13:23:22.9888443Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 275153,
       "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
       "installedFile": {
@@ -5173,7 +5493,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5666,7 +5986,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7526,7 +7846,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8486,7 +8806,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8660,12 +8980,12 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 307788,
@@ -9682,7 +10002,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10577,7 +10897,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11484,7 +11804,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11586,12 +11906,12 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 296769,
@@ -12576,7 +12896,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12880,7 +13200,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -15060,7 +15380,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -15964,7 +16284,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -16122,61 +16442,54 @@
       "installedTargets": null
     },
     {
-      "addonID": 294815,
+      "addonID": 280294,
       "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
       "installedFile": {
-        "id": 2807928,
-        "displayName": "aiotbotania-0.7.1.jar",
-        "fileName": "aiotbotania-0.7.1.jar",
-        "fileDate": "2019-10-12T18:35:52.203Z",
-        "fileLength": 141821,
-        "releaseType": 2,
+        "id": 3042760,
+        "displayName": "FpsReducer-mc1.12.2-1.18.jar",
+        "fileName": "FpsReducer-mc1.12.2-1.18.jar",
+        "fileDate": "2020-08-26T15:29:40.06Z",
+        "fileLength": 78720,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2807/928/aiotbotania-0.7.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3042/760/FpsReducer-mc1.12.2-1.18.jar",
         "isAlternate": false,
-        "alternateFileId": 2807929,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
+        "alternateFileId": 0,
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 693992009,
+            "fingerprint": 3254707629,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "de",
-            "fingerprint": 930276118,
+            "foldername": "bre",
+            "fingerprint": 1438759351,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 552020002,
+            "fingerprint": 3696161350,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 600455827,
+            "fingerprint": 4272503236,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 800807764,
+            "fingerprint": 2639982412,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4130804297,
+        "packageFingerprint": 1942238267,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -16187,14 +16500,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "aiotbotania-0.7.1.jar"
+        "FileNameOnDisk": "FpsReducer-mc1.12.2-1.18.jar"
       },
-      "dateInstalled": "2021-06-15T14:48:10.908935Z",
-      "dateUpdated": "2021-06-15T14:48:10.9199058Z",
-      "dateLastUpdateAttempted": "2021-06-15T14:48:10.9199058Z",
+      "dateInstalled": "2021-06-16T10:50:49.41488Z",
+      "dateUpdated": "2021-06-16T10:50:49.4218625Z",
+      "dateLastUpdateAttempted": "2021-06-16T10:50:49.4218625Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -16310,54 +16623,61 @@
       "installedTargets": null
     },
     {
-      "addonID": 280294,
+      "addonID": 294815,
       "gameInstanceID": "5a3d075b-08a8-49b3-9794-523ec6250f96",
       "installedFile": {
-        "id": 3042760,
-        "displayName": "FpsReducer-mc1.12.2-1.18.jar",
-        "fileName": "FpsReducer-mc1.12.2-1.18.jar",
-        "fileDate": "2020-08-26T15:29:40.06Z",
-        "fileLength": 78720,
-        "releaseType": 1,
+        "id": 2807928,
+        "displayName": "aiotbotania-0.7.1.jar",
+        "fileName": "aiotbotania-0.7.1.jar",
+        "fileDate": "2019-10-12T18:35:52.203Z",
+        "fileLength": 141821,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3042/760/FpsReducer-mc1.12.2-1.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2807/928/aiotbotania-0.7.1.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
+        "alternateFileId": 2807929,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3254707629,
+            "fingerprint": 693992009,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "bre",
-            "fingerprint": 1438759351,
+            "foldername": "de",
+            "fingerprint": 930276118,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3696161350,
+            "fingerprint": 552020002,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4272503236,
+            "fingerprint": 600455827,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 2639982412,
+            "fingerprint": 800807764,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1942238267,
+        "packageFingerprint": 4130804297,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -16368,14 +16688,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FpsReducer-mc1.12.2-1.18.jar"
+        "FileNameOnDisk": "aiotbotania-0.7.1.jar"
       },
-      "dateInstalled": "2021-06-16T10:50:49.41488Z",
-      "dateUpdated": "2021-06-16T10:50:49.4218625Z",
-      "dateLastUpdateAttempted": "2021-06-16T10:50:49.4218625Z",
+      "dateInstalled": "2021-06-15T14:48:10.908935Z",
+      "dateUpdated": "2021-06-15T14:48:10.9199058Z",
+      "dateLastUpdateAttempted": "2021-06-15T14:48:10.9199058Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -16513,7 +16833,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -16597,7 +16917,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
