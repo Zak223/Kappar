@@ -26,3 +26,9 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, ve
 [08:02:23] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
 [08:03:10] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
 [08:03:10] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[08:06:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[08:06:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[08:06:10] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World~\waypoints
+[08:06:10] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World~\DIM0. Memory: 5483MB total, 2017MB free 
+[08:06:11] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[08:21:51] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World~\DIM0

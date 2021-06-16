@@ -12376,3 +12376,449 @@ com.google.gson.JsonSyntaxException: Unknown item 'mineraft:stone'
 [08:04:37] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 20%
 [08:04:42] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 22%
 [08:04:47] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 25%
+[08:04:52] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 28%
+[08:04:57] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 29%
+[08:05:02] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 31%
+[08:05:07] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 33%
+[08:05:12] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 34%
+[08:05:17] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 36%
+[08:05:27] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 38%
+[08:05:28] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[08:05:28] [Server thread/INFO]: Generating keypair
+[08:05:28] [Server thread/INFO]: Permission Handler is: INSTANCE
+[08:05:28] [Server thread/INFO]: Preparing all world data
+[08:05:29] [Server thread/INFO]: Injecting existing registry data into this server instance
+[08:05:32] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 43%
+[08:05:37] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 44%
+[08:05:38] [Server thread/INFO]: JEI search tree manager injection complete!
+[08:05:40] [Server thread/INFO]: Applying holder lookups
+[08:05:40] [Server thread/INFO]: Holder lookups applied
+[08:05:40] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:41] [Server thread/INFO]: Loaded 1043 advancements
+[08:05:41] [Server thread/INFO]: Patching class: "ru.fewizz.neid.asm.Hooks" with Transformer Group: "TransformerGroupChunkPrimer"
+[08:05:42] [Server thread/INFO]: Transforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[08:05:42] [Server thread/INFO]: Transforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[08:05:42] [Server thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[08:05:42] [Server thread/INFO]: Creating aura cache for world 0
+[08:05:42] [Server thread/INFO]: Creating biome configs.
+[08:05:42] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 45%
+[08:05:43] [Server thread/INFO]: Reading biome configs.
+[08:05:43] [Server thread/INFO]: Creating Pigtificate trade configs.
+[08:05:43] [Server thread/INFO]: Reading Pigtificate trade configs.
+[08:05:43] [Server thread/INFO]: Checking GatewayCache integrity for dimension 0
+[08:05:43] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:43] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:43] [Server thread/INFO]: Creating aura cache for world -1
+[08:05:43] [Server thread/INFO]: Checking GatewayCache integrity for dimension -1
+[08:05:43] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world 1
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension 1
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension 144 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world 144
+[08:05:44] [Server thread/INFO]: Loaded data for compact machine world: 0 spawn points, next machine id is 0, players with beds: 0
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension 144
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension 43 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world 43
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension 43
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension -11325 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world -11325
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension -11325
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension -9999 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world -9999
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension -9999
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension 4598 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world 4598
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension 4598
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension -343800852 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world -343800852
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension -343800852
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension -2 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world -2
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension -2
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Loading dimension 2 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:05:44] [Server thread/INFO]: Creating aura cache for world 2
+[08:05:44] [Server thread/INFO]: Checking GatewayCache integrity for dimension 2
+[08:05:44] [Server thread/INFO]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[08:05:44] [Server thread/INFO]: Preparing start region for level 0
+[08:05:44] [Server thread/INFO]: Transforming WorldGenDungeons...
+[08:05:44] [Server thread/INFO]: Successfully transformed WorldGenDungeons
+[08:05:45] [Server thread/INFO]: Preparing spawn area: 4%
+[08:05:46] [Server thread/WARN]: Thaumcraft loaded a new chunk [-2, 25] in dimension 0 (overworld) while populating chunk [-1, 26], causing cascading worldgen lag.
+[08:05:46] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:46] [Server thread/WARN]: Thaumcraft loaded a new chunk [-2, 24] in dimension 0 (overworld) while populating chunk [-2, 25], causing cascading worldgen lag.
+[08:05:46] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:46] [Server thread/INFO]: Preparing spawn area: 8%
+[08:05:47] [Server thread/INFO]: Preparing spawn area: 12%
+[08:05:47] [Server thread/WARN]: Thaumcraft loaded a new chunk [1, 23] in dimension 0 (overworld) while populating chunk [1, 22], causing cascading worldgen lag.
+[08:05:47] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:47] [Server thread/WARN]: Thaumcraft loaded a new chunk [2, 26] in dimension 0 (overworld) while populating chunk [1, 26], causing cascading worldgen lag.
+[08:05:47] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:47] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 46%
+[08:05:48] [Server thread/INFO]: Preparing spawn area: 18%
+[08:05:48] [Server thread/WARN]: Thaumcraft loaded a new chunk [2, 25] in dimension 0 (overworld) while populating chunk [2, 23], causing cascading worldgen lag.
+[08:05:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:48] [Server thread/WARN]: Thaumcraft loaded a new chunk [2, 24] in dimension 0 (overworld) while populating chunk [2, 23], causing cascading worldgen lag.
+[08:05:48] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:49] [Server thread/WARN]: Thaumcraft loaded a new chunk [3, 23] in dimension 0 (overworld) while populating chunk [3, 22], causing cascading worldgen lag.
+[08:05:49] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:49] [Server thread/INFO]: Preparing spawn area: 24%
+[08:05:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.scales'
+[08:05:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.scales'
+[08:05:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.scales'
+[08:05:50] [Server thread/WARN]: Thaumcraft loaded a new chunk [6, 19] in dimension 0 (overworld) while populating chunk [5, 19], causing cascading worldgen lag.
+[08:05:50] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:50] [Server thread/INFO]: Preparing spawn area: 30%
+[08:05:51] [Server thread/INFO]: Preparing spawn area: 38%
+[08:05:52] [Server thread/WARN]: Thaumcraft loaded a new chunk [8, 22] in dimension 0 (overworld) while populating chunk [8, 21], causing cascading worldgen lag.
+[08:05:52] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:52] [Server thread/INFO]: Preparing spawn area: 43%
+[08:05:52] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 47%
+[08:05:53] [Server thread/INFO]: Preparing spawn area: 52%
+[08:05:53] [Server thread/WARN]: Astral Sorcery loaded a new chunk [12, 23] in dimension 0 (overworld) while populating chunk [11, 23], causing cascading worldgen lag.
+[08:05:53] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:54] [Server thread/INFO]: Preparing spawn area: 63%
+[08:05:55] [Server thread/INFO]: Preparing spawn area: 73%
+[08:05:56] [Server thread/INFO]: Preparing spawn area: 83%
+[08:05:57] [Server thread/INFO]: Preparing spawn area: 92%
+[08:05:57] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 48%
+[08:05:58] [Downloader 0/INFO]: The list of contributors has been loaded successfully
+[08:05:58] [Server thread/INFO]: Checking for asteroid config at D:\Users\dylan\AppData\Instances\Kappar\.\config\advRocketry\asteroidConfig.xml
+[08:05:58] [Server thread/INFO]: Checking for ore config at D:\Users\dylan\AppData\Instances\Kappar\.\config\advRocketry\oreConfig.xml
+[08:05:58] [Server thread/INFO]: Checking for config at D:\Users\dylan\AppData\Instances\Kappar\saves\New World-\advRocketry\planetDefs.xml
+[08:05:58] [Server thread/INFO]: File not found.  Now checking for config at ./config/advRocketry/planetDefs.xml
+[08:05:58] [Server thread/INFO]: Registering AgriCraft Commands.
+[08:05:59] [Server thread/INFO]: Starting threads
+[08:05:59] [Server thread/INFO]: Server Loading...
+[08:05:59] [Server thread/INFO]: The Nether has been overridden.
+[08:05:59] [Server thread/INFO]: No WorldData found, creating...
+[08:05:59] [Server thread/INFO]: WorldData loading
+[08:05:59] [Server thread/INFO]: WorldData not found
+[08:06:00] [Server thread/INFO]: Loaded 1043 advancements
+[08:06:00] [Server thread/INFO]: Reloaded server in 32ms
+[08:06:00] [Server thread/INFO]: Overridden 217 commands
+[08:06:00] [Server thread/INFO]: RFTools: server is starting
+[08:06:00] [Server thread/INFO]: Registering RFTools dimensions: 
+[08:06:01] [Thread-2965/INFO]: Starting aura thread for dim 0
+[08:06:01] [Thread-2969/INFO]: Starting aura thread for dim -1
+[08:06:01] [Thread-2970/INFO]: Starting aura thread for dim 1
+[08:06:01] [Thread-2971/INFO]: Starting aura thread for dim 144
+[08:06:01] [Thread-2972/INFO]: Starting aura thread for dim 43
+[08:06:01] [Thread-2973/INFO]: Starting aura thread for dim -11325
+[08:06:01] [Thread-2974/INFO]: Starting aura thread for dim -9999
+[08:06:01] [Thread-2975/INFO]: Starting aura thread for dim 4598
+[08:06:01] [Thread-2976/INFO]: Starting aura thread for dim -343800852
+[08:06:01] [Thread-2977/INFO]: Starting aura thread for dim -2
+[08:06:01] [Thread-2978/INFO]: Starting aura thread for dim 2
+[08:06:01] [Server thread/INFO]: Removing aura cache for world -1
+[08:06:01] [Server thread/INFO]: Unloading dimension -1
+[08:06:01] [Server thread/INFO]: Removing aura cache for world 1
+[08:06:01] [Server thread/INFO]: Unloading dimension 1
+[08:06:01] [Server thread/INFO]: Removing aura cache for world 144
+[08:06:02] [Server thread/INFO]: Unloading dimension 144
+[08:06:02] [Server thread/INFO]: Removing aura cache for world 43
+[08:06:02] [Server thread/INFO]: Unloading dimension 43
+[08:06:02] [Netty Local Client IO #0/INFO]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[08:06:02] [Server thread/INFO]: Removing aura cache for world -11325
+[08:06:02] [Server thread/INFO]: Unloading dimension -11325
+[08:06:02] [Server thread/INFO]: Removing aura cache for world 4598
+[08:06:02] [Server thread/INFO]: Unloading dimension 4598
+[08:06:02] [Server thread/INFO]: Removing aura cache for world -2
+[08:06:02] [Server thread/INFO]: Unloading dimension -2
+[08:06:02] [Server thread/INFO]: No FluxNetworkData found
+[08:06:02] [Server thread/INFO]: FluxNetworkData has been successfully loaded
+[08:06:02] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:06:02] [Client thread/INFO]: Unloaded WorldData!
+[08:06:02] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 50%
+[08:06:03] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[08:06:03] [Netty Server IO #1/INFO]: Client protocol version 2
+[08:06:03] [Netty Server IO #1/INFO]: Client attempting to join with 220 mods : moreavaritia@3.4,integratedterminals@1.0.14,draconicevolution@2.3.27,jeroreintegration@1.1.0,thermalinnovation@0.3.6,modnametooltip@1.10.1,endercore@1.12.2-0.5.76,neat@1.4-17,thaumicjei@1.6.0,enderioendergy@5.3.70,ctm@MC1.12.2-1.0.2.31,xnet@1.8.2,reauth@3.6.0,forgelin@1.8.4,microblockcbe@2.6.2.83,stellarfluidconduits@1.12.2-1.0.0,llibrary@1.7.20,apotheosis@1.12.4,darkutils@1.8.230,icbmclassic@1.12.2-4.0.1.75,betterbuilderswands@0.11.1,ftblib@5.4.7.2,enderioconduitsrefinedstorage@5.3.70,dynview@1.3,guideapi@1.12-2.1.8-63,jeresources@0.9.2.60,mysticalagradditions@1.3.2,enderioconduits@5.3.70,refinedstorage@1.6.16,industrialforegoing@1.12.2-1.12.2,unidict@1.12.2-3.0.8,redstoneflux@2.1.1,ironfurnaces@1.3.5,modtweaker@4.0.19,supermartijn642corelib@1.0.8,botania@r1.10-364,portality@1.0-SNAPSHOT,ic2@2.8.170-ex112,advgenerators@0.9.20.12,teslacorelib@1.0.17,enderioinvpanel@5.3.70,FML@8.0.99.99,thermalexpansion@5.5.7,tombstone@4.4.3,rftoolsdim@5.71,enderiointegrationtic@5.3.70,cfm@6.3.1,oredictinit@1.12.2-2.2.1.71,forgemultipartcbe@2.6.2.83,codechickenlib@3.2.3.358,fastleafdecay@v14,netherex@2.2.4,tinkersaddons@1.0.7,cctweaked@1.89.2,ctgui@1.0.0,jei@4.16.1.301,custommainmenu@2.0.9.1,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,thermalfoundation@2.6.7,bdlib@1.14.3.12,tcinventoryscan@2.0.10,rf-capability-adapter@1.1.1,enderiointegrationticlate@5.3.70,compactmachines3@3.0.18,chameleon@1.12-4.1.3,farmingforblockheads@3.1.28,inventorytweaks@1.63+release.109.220f184,iceandfire@1.9.1,crafttweaker@4.1.20,immersivepetroleum@1.1.9,forge@14.23.5.2855,ftbutilities@5.4.1.131,cyclicmagic@1.20.8,ironchest@1.12.2-7.0.67.844,integratedcrafting@1.0.10,zerocore@1.12.2-0.1.2.9,minecraft@1.12.2,theoneprobe@1.4.28,mousetweaks@2.10,immersiveengineering@0.12-98,thermaldynamics@2.5.6,hooked@%VERSION%,applecore@3.4.0,thaumicenergistics@2.2.3,enderiopowertools@5.3.70,fw@1.6.0,extrautils2@1.0,jeiintegration@1.6.0,quantumflux@2.0.18,mantle@1.12-1.3.3.55,integrateddynamics@1.1.11,advancedrocketrycore@1,autoreglib@1.3-32,lootbags@2.5.8.5,integratedterminalscompat@1.0.0,libraryex@1.2.1,harvest@1.12-1.2.8-25,refined_avaritia@2.6,pickletweaks@2.1.3,betterbedrock@5.1,fastfurnace@1.3.1,appleskin@1.0.14,integratedtunnelscompat@1.0.0,minecraftmultipartcbe@2.6.2.83,enderioconduitsopencomputers@5.3.70,netherendingores@1.12.2-1.4.2,refinedstoragerequestify@${version},cyclopscore@1.6.7,p455w0rdslib@2.3.161,astralsorcery@1.10.27,enderiointegrationforestry@5.3.70,modularmachinery@1.11.1,aiotbotania@0.7.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,avaritiatweaks@@VERSION@,extendedcrafting@1.5.6,cofhcore@4.6.6,rsgauges@1.2.5,reborncore@3.19.5,controlling@3.0.10,cookingforblockheads@6.5.0,placebo@1.6.0,neid@1.5.4.4,ae2stuff@0.7.0.4,bookshelf@2.3.590,ironbackpacks@1.12.2-3.0.8-12,wct@3.12.97,cofhworld@1.4.0,mcwdoors@1.3,mekanismgenerators@1.12.2-9.8.3.390,librarianliblate@4.22,carryon@1.12.3,fpsreducer@mc1.12.2-1.18,thaumcraft@6.1.BETA26,mcjtylib_ng@3.5.4,texfix@4.0,mob_grinding_utils@0.3.13,architecturecraft@@VERSION@,rebornstorage@1.0.0,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,commoncapabilities@2.4.8,crafttweakerjei@2.0.3,enderiomachines@5.3.70,mtlib@3.0.7,valkyrielib@1.12.2-2.0.20.1,advancedrocketry@1.7.0.-232,teslacorelib_registries@1.0.17,actuallyadditions@1.12.2-r152,solarflux@12.4.11,randomthings@4.2.7.4,oreexcavation@1.4.150,rftoolscontrol@2.0.2,integratedtunnels@1.6.14,elevatorid@1.3.14,gunpowderlib@1.12.2-1.1,enderioconduitsappliedenergistics@5.3.70,mekanismtools@1.12.2-9.8.3.390,libvulpes@0.4.2.-83,computercraft@1.89.2,environmentaltech@1.12.2-2.0.20.1,trashcans@1.0.10,avaritiaio@@VERSION@,badwithernocookiereloaded@1.12.2-3.4.18,danknull@1.7.91,lootcapacitortooltips@1.3,compactdrawers@1.12.2-1.0.5.125,agricraft@2.12.0-1.12.2-b2,extracells@2.6.7,pamsimpleharvest@2.0.0,ae2wtlib@1.0.34,cucumber@1.1.3,librarianlib@4.22,snad@1.12.1-1.7.09.16a,simplevoidworld@1.2.0.9,witherskelefix@2.6.3,waystones@4.1.0,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1,appliedenergistics2@rv6-stable-7,nuclearcraft@2.18z,storagenetwork@1.8.1,harvestcraft@1.12.2zb,foamfixcore@7.7.4,integrateddynamicscompat@1.0.0,packagedexcrafting@1.12.2-1.0.2.3,toastcontrol@1.8.1,enderstorage@2.4.6.137,bloodmagic@1.12.2-2.4.3-105,brandonscore@2.4.19,mysticalagriculture@1.7.5,craftingtweaks@8.1.9,tconstruct@1.12.2-2.13.0.183,avaritia@3.3.0,baubles@1.5.2,packagedauto@1.12.2-1.0.5.17,integrationforegoing@1.12.2-1.11,enderio@5.3.70,quark@r1.6-179,jaopca@1.12.2-2.2.8.103,fastbench@1.7.3,storagedrawers@5.2.2,fluxnetworks@4.1.0,performant@1.12.2-1.4,tinker_io@rw2.8.3,wrapup@1.12-1.1.3,gasconduits@5.3.70,enderiobase@5.3.70,wanionlib@1.12.2-2.5,engineersdecor@1.1.2,chisel@MC1.12.2-1.0.2.45,infinitylib@1.12.2-1.12.1,solcarrot@1.8.4,foamfix@0.10.14-1.12.2,refinedstorageaddons@0.4.5,chiselsandbits@14.33,translocators@2.5.2.81,examplemod@1.0
+[08:06:03] [Netty Server IO #1/INFO]: Skipping config sync, No mods have registered a syncable config.
+[08:06:03] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[08:06:03] [Client thread/INFO]: Using gateway screenshots for folder 'new_world'
+[08:06:03] [Server thread/INFO]: [Server thread] Server side modded connection established
+[08:06:03] [Server thread/ERROR]: Data not found for LOADER_is_Queen
+[08:06:03] [Server thread/INFO]: LOADER_is_Queen[local:E:3075553e] logged in with entity id 967 at (174.5, 65.0, 242.5)
+[08:06:03] [Server thread/INFO]: SMP: Sync dimensions to client
+[08:06:03] [Netty Local Client IO #0/INFO]: DimensionSyncPacket: Registering: 
+[08:06:03] [Client thread/INFO]: Received dimension information from server
+[08:06:03] [Server thread/INFO]: LOADER_is_Queen joined the game
+[08:06:03] [Thread-2969/INFO]: Stopping aura thread for dim -1
+[08:06:03] [Thread-2970/INFO]: Stopping aura thread for dim 1
+[08:06:03] [Thread-2971/INFO]: Stopping aura thread for dim 144
+[08:06:03] [Thread-2972/INFO]: Stopping aura thread for dim 43
+[08:06:03] [Thread-2973/INFO]: Stopping aura thread for dim -11325
+[08:06:03] [Thread-2975/INFO]: Stopping aura thread for dim 4598
+[08:06:03] [Thread-2977/INFO]: Stopping aura thread for dim -2
+[08:06:04] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[08:06:07] [Server thread/INFO]: Loading dimension 144 (New World) (net.minecraft.server.integrated.IntegratedServer@58f8244c)
+[08:06:07] [Server thread/INFO]: Creating aura cache for world 144
+[08:06:07] [Server thread/INFO]: Loaded data for compact machine world: 0 spawn points, next machine id is 0, players with beds: 0
+[08:06:07] [Server thread/INFO]: SMP: Player logged in: Sync diminfo to clients
+[08:06:07] [Server thread/INFO]: Send dimlet rules to the client
+[08:06:07] [Server thread/INFO]: Rules packet size: 5779 of 8192
+[08:06:08] [Server thread/INFO]: Successfully loaded WorldData!
+[08:06:08] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 50%
+[08:06:08] [Server thread/INFO]: Sending Player Data to player LOADER_is_Queen with UUID 5370187b-aa52-4943-94ca-5e507d156041.
+[08:06:08] [Netty Local Client IO #0/INFO]: Received Cardboard Box blacklist entries from server (28 explicit blocks, 3 mod wildcards)
+[08:06:08] [Server thread/INFO]: [Astral Sorcery] Waiting for server synchronization on login for LOADER_is_Queen...
+[08:06:08] [Client thread/INFO]: Requesting server panels...
+[08:06:08] [Server thread/INFO]: [Astral Sorcery] Synchronizing baseline information to LOADER_is_Queen
+[08:06:08] [Server thread/INFO]: Saving and pausing game...
+[08:06:08] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:06:09] [Client thread/INFO]: Transforming net.minecraft.client.gui.inventory.GuiBeacon$PowerButton
+[08:06:09] [Client thread/INFO]: Could not locate, injecting method (Names [drawButton, func_191745_a] Descriptor (Lnet/minecraft/client/Minecraft;IIF)V)
+[08:06:09] [Client thread/INFO]: Patch result: true
+[08:06:09] [Client thread/INFO]: Received dimlet rules from server
+[08:06:09] [Client thread/INFO]: Receiving (new or changed) Player Data for player LOADER_is_Queen.
+[08:06:09] [Client thread/INFO]: [CHAT] Thank you for downloading MrCrayfish's Furniture Mod.
+[08:06:09] [Client thread/INFO]: [CHAT] §6-> §aCheck out the Furniture Mod Wiki
+[08:06:09] [Client thread/INFO]: [CHAT] §6-> §rmrcrayfishs-furniture-mod.wikia.com
+[08:06:09] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:06:09] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:06:09] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:06:09] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachines
+[08:06:10] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[08:06:10] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[08:06:10] [Client thread/INFO]: Loaded 0 waypoints from D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World~\waypoints
+[08:06:10] [Server thread/INFO]: LOADER_is_Queen has made the advancement [Ice and Fire]
+[08:06:10] [Client thread/INFO]: Mapping started in D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World~\DIM0. Memory: 5483MB total, 2017MB free 
+[08:06:11] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[08:06:11] [Client thread/INFO]: JourneyMap: Press [J]
+[08:06:11] [Thread-2987/INFO]: Starting aura thread for dim 144
+[08:06:11] [Server thread/INFO]: Removing aura cache for world 144
+[08:06:11] [Client thread/INFO]: [CHAT] LOADER_is_Queen has made the advancement [Ice and Fire]
+[08:06:11] [Client thread/INFO]: Loaded 79 advancements
+[08:06:12] [Server thread/INFO]: Unloading dimension 144
+[08:06:12] [Client thread/INFO]: [CHAT] §6The mod Extra Cells 2 is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
+[08:06:13] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 52%
+[08:06:13] [Thread-2987/INFO]: Stopping aura thread for dim 144
+[08:06:18] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 53%
+[08:06:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15609ms behind, skipping 312 tick(s)
+[08:06:22] [Server thread/WARN]: Thaumcraft loaded a new chunk [8, 28] in dimension 0 (overworld) while populating chunk [8, 27], causing cascading worldgen lag.
+[08:06:22] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4697ms behind, skipping 93 tick(s)
+[08:06:23] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 54%
+[08:06:23] [Server thread/WARN]: Thaumcraft loaded a new chunk [7, 28] in dimension 0 (overworld) while populating chunk [7, 27], causing cascading worldgen lag.
+[08:06:23] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:23] [Server thread/WARN]: Thaumcraft loaded a new chunk [6, 27] in dimension 0 (overworld) while populating chunk [7, 28], causing cascading worldgen lag.
+[08:06:23] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:25] [Server thread/WARN]: Thaumcraft loaded a new chunk [4, 28] in dimension 0 (overworld) while populating chunk [5, 28], causing cascading worldgen lag.
+[08:06:25] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:28] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 54%
+[08:06:33] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 55%
+[08:06:38] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 56%
+[08:06:43] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 58%
+[08:06:45] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[08:06:47] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[08:06:48] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 59%
+[08:06:53] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 61%
+[08:06:57] [Server thread/INFO]: Saving and pausing game...
+[08:06:57] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:06:57] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:06:57] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:06:57] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:06:58] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 62%
+[08:07:03] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 63%
+[08:07:06] [Client thread/INFO]: [CHAT] Dim  0 (overworld) : Mean tick time: 9.846 ms. Mean TPS: 20.000
+[08:07:06] [Client thread/INFO]: [CHAT] Dim -9999 (ExtraUtils2_Quarry_Dim) : Mean tick time: 0.199 ms. Mean TPS: 20.000
+[08:07:06] [Client thread/INFO]: [CHAT] Dim -343800852 (Spectre) : Mean tick time: 0.089 ms. Mean TPS: 20.000
+[08:07:06] [Client thread/INFO]: [CHAT] Dim  2 (Storage Cell) : Mean tick time: 0.084 ms. Mean TPS: 20.000
+[08:07:06] [Client thread/INFO]: [CHAT] Overall : Mean tick time: 15.225 ms. Mean TPS: 20.000
+[08:07:08] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 65%
+[08:07:13] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 66%
+[08:07:18] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 67%
+[08:07:23] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 68%
+[08:07:28] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 70%
+[08:07:33] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 71%
+[08:07:35] [Server thread/WARN]: Quark loaded a new chunk [1297, -5917] in dimension 0 (overworld) while populating chunk [1298, -5917], causing cascading worldgen lag.
+[08:07:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:35] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1297, -5918] in dimension 0 (overworld) while populating chunk [1298, -5917], causing cascading worldgen lag.
+[08:07:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:35] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1296, -5917] in dimension 0 (overworld) while populating chunk [1298, -5917], causing cascading worldgen lag.
+[08:07:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:35] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1295, -5917] in dimension 0 (overworld) while populating chunk [1298, -5917], causing cascading worldgen lag.
+[08:07:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:35] [Server thread/WARN]: Quark loaded a new chunk [1294, -5917] in dimension 0 (overworld) while populating chunk [1298, -5917], causing cascading worldgen lag.
+[08:07:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:38] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 72%
+[08:07:39] [Server thread/WARN]: Quark loaded a new chunk [1292, -5918] in dimension 0 (overworld) while populating chunk [1292, -5917], causing cascading worldgen lag.
+[08:07:39] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:39] [Server thread/WARN]: Quark loaded a new chunk [1292, -5919] in dimension 0 (overworld) while populating chunk [1292, -5917], causing cascading worldgen lag.
+[08:07:39] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:39] [Server thread/WARN]: Quark loaded a new chunk [1291, -5918] in dimension 0 (overworld) while populating chunk [1292, -5917], causing cascading worldgen lag.
+[08:07:39] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:39] [Server thread/WARN]: Quark loaded a new chunk [1291, -5919] in dimension 0 (overworld) while populating chunk [1292, -5917], causing cascading worldgen lag.
+[08:07:39] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:40] [Server thread/WARN]: Quark loaded a new chunk [1294, -5912] in dimension 0 (overworld) while populating chunk [1293, -5913], causing cascading worldgen lag.
+[08:07:40] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:40] [Server thread/WARN]: Quark loaded a new chunk [1293, -5912] in dimension 0 (overworld) while populating chunk [1293, -5913], causing cascading worldgen lag.
+[08:07:40] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3744ms behind, skipping 74 tick(s)
+[08:07:41] [Client thread/INFO]: [CHAT] Dim  0 (overworld) : Mean tick time: 65.943 ms. Mean TPS: 15.165
+[08:07:41] [Client thread/INFO]: [CHAT] Dim -9999 (ExtraUtils2_Quarry_Dim) : Mean tick time: 0.202 ms. Mean TPS: 20.000
+[08:07:41] [Client thread/INFO]: [CHAT] Dim -343800852 (Spectre) : Mean tick time: 0.076 ms. Mean TPS: 20.000
+[08:07:41] [Client thread/INFO]: [CHAT] Dim  2 (Storage Cell) : Mean tick time: 0.063 ms. Mean TPS: 20.000
+[08:07:41] [Client thread/INFO]: [CHAT] Overall : Mean tick time: 68.275 ms. Mean TPS: 14.647
+[08:07:42] [Server thread/WARN]: Tried to over-fill a container
+[08:07:43] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 73%
+[08:07:48] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 74%
+[08:07:53] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 75%
+[08:07:56] [Server thread/WARN]: Quark loaded a new chunk [1291, -5905] in dimension 0 (overworld) while populating chunk [1290, -5906], causing cascading worldgen lag.
+[08:07:56] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:57] [Server thread/WARN]: Quark loaded a new chunk [1307, -5927] in dimension 0 (overworld) while populating chunk [1308, -5926], causing cascading worldgen lag.
+[08:07:57] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:07:58] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 76%
+[08:08:03] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 77%
+[08:08:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6484ms behind, skipping 129 tick(s)
+[08:08:08] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 78%
+[08:08:13] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 79%
+[08:08:18] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 80%
+[08:08:23] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 81%
+[08:08:28] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 82%
+[08:08:28] [Server thread/INFO]: Saving and pausing game...
+[08:08:28] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:08:29] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:08:29] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:08:29] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:08:32] [Server thread/INFO]: Saving and pausing game...
+[08:08:32] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:08:33] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 83%
+[08:08:33] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:08:33] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:08:33] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:08:38] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 84%
+[08:08:43] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 86%
+[08:08:45] [Server thread/INFO]: Saving and pausing game...
+[08:08:45] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:08:45] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:08:45] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:08:45] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:08:48] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 87%
+[08:08:53] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 88%
+[08:08:57] [Client thread/INFO]: Loaded and cached shape/sphere_half_r8.objson in 2296700 nanos.
+[08:08:57] [Client thread/INFO]: Loaded and cached shape/sphere_eighth_r8.objson in 742200 nanos.
+[08:08:58] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 89%
+[08:09:01] [Server thread/INFO]: [LOADER_is_Queen: Given    [Digital Miner] * 1 to LOADER_is_Queen]
+[08:09:01] [Client thread/INFO]: [CHAT] Given    [Digital Miner] * 1 to LOADER_is_Queen
+[08:09:03] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 90%
+[08:09:08] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 91%
+[08:09:11] [Server thread/INFO]: [LOADER_is_Queen: Given    [Creative Energy Cube] * 1 to LOADER_is_Queen]
+[08:09:11] [Client thread/INFO]: [CHAT] Given    [Creative Energy Cube] * 1 to LOADER_is_Queen
+[08:09:13] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 92%
+[08:09:18] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 93%
+[08:09:19] [Server thread/INFO]: Saving and pausing game...
+[08:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:09:22] [Client thread/INFO]: Updating ingredient filter...
+[08:09:22] [Client thread/INFO]: Updated  ingredient filter in 0 ms
+[08:09:23] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 94%
+[08:09:24] [Server thread/INFO]: [LOADER_is_Queen: Given    [Speed Upgrade] * 8 to LOADER_is_Queen]
+[08:09:24] [Client thread/INFO]: [CHAT] Given    [Speed Upgrade] * 8 to LOADER_is_Queen
+[08:09:25] [Server thread/INFO]: [LOADER_is_Queen: Given    [Energy Upgrade] * 8 to LOADER_is_Queen]
+[08:09:25] [Client thread/INFO]: [CHAT] Given    [Energy Upgrade] * 8 to LOADER_is_Queen
+[08:09:28] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 95%
+[08:09:33] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 96%
+[08:09:38] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 97%
+[08:09:43] [ThaumicJEI Aspect Cache/INFO]: ItemStack Aspect checking at 99%
+[08:09:47] [ThaumicJEI Aspect Cache/INFO]: Finished Aspect ItemStack Thread.
+[08:10:07] [Server thread/INFO]: [LOADER_is_Queen: Set own game mode to Creative Mode]
+[08:10:07] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[08:11:44] [Client thread/INFO]: Loaded and cached shape/corinthian_capital.objson in 4278200 nanos.
+[08:11:48] [Server thread/INFO]: LOADER_is_Queen has made the advancement [Recursive Networking]
+[08:11:48] [Client thread/INFO]: [CHAT] LOADER_is_Queen has made the advancement [Recursive Networking]
+[08:11:48] [Client thread/INFO]: Loaded 85 advancements
+[08:12:01] [Server thread/INFO]: LOADER_is_Queen has made the advancement [Networking Switchboard]
+[08:12:01] [Client thread/INFO]: [CHAT] LOADER_is_Queen has made the advancement [Networking Switchboard]
+[08:12:01] [Client thread/INFO]: Loaded 93 advancements
+[08:12:25] [Server thread/INFO]: LOADER_is_Queen has made the advancement [A (Much) Bigger Table]
+[08:12:25] [Client thread/INFO]: [CHAT] LOADER_is_Queen has made the advancement [A (Much) Bigger Table]
+[08:12:25] [Client thread/INFO]: Loaded 96 advancements
+[08:12:44] [Server thread/INFO]: LOADER_is_Queen has made the advancement [Fluix Energy Connection]
+[08:12:45] [Client thread/INFO]: [CHAT] LOADER_is_Queen has made the advancement [Fluix Energy Connection]
+[08:12:45] [Client thread/INFO]: Loaded 101 advancements
+[08:14:00] [Server thread/INFO]: All players have been successfully backed up
+[08:18:13] [Client thread/INFO]: Loaded 102 advancements
+[08:18:54] [Server thread/WARN]: Quark loaded a new chunk [1310, -5902] in dimension 0 (overworld) while populating chunk [1309, -5902], causing cascading worldgen lag.
+[08:18:54] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:19:07] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1291, -5935] in dimension 0 (overworld) while populating chunk [1291, -5934], causing cascading worldgen lag.
+[08:19:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:19:07] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1290, -5935] in dimension 0 (overworld) while populating chunk [1291, -5934], causing cascading worldgen lag.
+[08:19:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:19:07] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1289, -5933] in dimension 0 (overworld) while populating chunk [1291, -5934], causing cascading worldgen lag.
+[08:19:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:19:07] [Server thread/WARN]: Fast Leaf Decay loaded a new chunk [1289, -5934] in dimension 0 (overworld) while populating chunk [1291, -5934], causing cascading worldgen lag.
+[08:19:07] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:19:17] [Server thread/INFO]: [LOADER_is_Queen: Added 14907 to the time]
+[08:19:17] [Client thread/INFO]: [CHAT] Added 14907 to the time
+[08:20:24] [Server thread/INFO]: Saving and pausing game...
+[08:20:24] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:20:25] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:20:25] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:20:25] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:21:03] [Server thread/INFO]: [LOADER_is_Queen: Set own game mode to Survival Mode]
+[08:21:03] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[08:21:26] [Server thread/INFO]: [LOADER_is_Queen: Set own game mode to Creative Mode]
+[08:21:26] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[08:21:50] [Server thread/INFO]: Saving and pausing game...
+[08:21:50] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:21:50] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:21:50] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:21:50] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:21:51] [Netty Local Client IO #0/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[08:21:51] [Netty Local Client IO #0/INFO]: FluxNetworkData has been unloaded
+[08:21:51] [Netty Local Client IO #0/INFO]: Client disconnected from server
+[08:21:51] [Netty Local Client IO #0/INFO]: Cleaning up RFTools dimensions
+[08:21:51] [Netty Local Client IO #0/INFO]: Cleaning client cache...
+[08:21:51] [Netty Local Client IO #0/INFO]: Cleared cached client data! Disconnected from server.
+[08:21:51] [Client thread/INFO]: Mapping halted in D:\Users\dylan\AppData\Instances\Kappar\journeymap\data\sp\New World~\DIM0
+[08:21:51] [Server thread/INFO]: Stopping threads
+[08:21:51] [Server thread/INFO]: Stopping server
+[08:21:51] [Server thread/INFO]: Saving players
+[08:21:51] [Server thread/INFO]: LOADER_is_Queen lost connection: Disconnected
+[08:21:51] [Server thread/INFO]: LOADER_is_Queen left the game
+[08:21:51] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[08:21:51] [Server thread/INFO]: Saving worlds
+[08:21:51] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[08:21:51] [Server thread/INFO]: FluxNetworkData has been successfully loaded
+[08:21:52] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[08:21:52] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[08:21:52] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[08:21:52] [Server thread/INFO]: Removing aura cache for world 0
+[08:21:52] [Server thread/INFO]: Removing aura cache for world -9999
+[08:21:52] [Server thread/INFO]: Removing aura cache for world -343800852
+[08:21:52] [Server thread/INFO]: Removing aura cache for world 2
+[08:21:52] [Server thread/INFO]: Unloading dimension 0
+[08:21:52] [Server thread/INFO]: Unloading dimension -9999
+[08:21:52] [Server thread/INFO]: Unloading dimension -343800852
+[08:21:52] [Server thread/INFO]: Unloading dimension 2
+[08:21:53] [Thread-2978/WARN]: No auras found!
+[08:21:53] [Thread-2978/INFO]: Stopping aura thread for dim 2
+[08:21:53] [Thread-2974/WARN]: No auras found!
+[08:21:53] [Thread-2974/INFO]: Stopping aura thread for dim -9999
+[08:21:53] [Thread-2976/WARN]: No auras found!
+[08:21:53] [Thread-2976/INFO]: Stopping aura thread for dim -343800852
+[08:21:53] [Thread-2965/INFO]: Stopping aura thread for dim 0
+[08:22:01] [Server thread/INFO]: JEI search tree manager injection complete!
+[08:22:03] [Server thread/INFO]: Applying holder lookups
+[08:22:03] [Server thread/INFO]: Holder lookups applied
+[08:22:03] [Server thread/INFO]: Unloaded WorldData!
+[08:22:03] [Server thread/INFO]: FluxNetworkData has been unloaded
+[08:22:03] [Server thread/INFO]: Server Closing...
+[08:22:03] [Server thread/INFO]: Cleaning up all world data: 2 data blobs
+[08:22:03] [Server thread/INFO]: RFTools Dimensions: server is stopping. Shutting down gracefully
+[08:22:08] [Client thread/INFO]: Resetting configs to local.
+[08:22:08] [Client thread/INFO]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[08:22:11] [Client thread/INFO]: Stopping!
+[08:22:11] [Client thread/INFO]: SoundSystem shutting down...
+[08:22:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
