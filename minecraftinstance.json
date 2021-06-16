@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-16T11:14:15.4053537Z",
-  "playedCount": 11,
+  "lastPlayed": "2021-06-16T11:33:53.5197659Z",
+  "playedCount": 12,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -7373,24 +7373,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 223891,
-      "gameInstanceID": "c8582fb7-475a-40d3-bbc7-15ee0cc00d42",
-      "installedFile": null,
-      "dateInstalled": "2021-06-16T10:42:07.6617354Z",
-      "dateUpdated": "2021-06-16T10:42:07.6776926Z",
-      "dateLastUpdateAttempted": "2021-06-16T10:42:07.6776926Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 312149,
       "gameInstanceID": "c8582fb7-475a-40d3-bbc7-15ee0cc00d42",
       "installedFile": {
@@ -12872,77 +12854,7 @@
     {
       "addonID": 357178,
       "gameInstanceID": "c8582fb7-475a-40d3-bbc7-15ee0cc00d42",
-      "installedFile": {
-        "id": 3076610,
-        "displayName": "MixinBootstrap-1.0.5.jar",
-        "fileName": "MixinBootstrap-1.0.5.jar",
-        "fileDate": "2020-10-11T02:14:40.237Z",
-        "fileLength": 1066150,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3076/610/MixinBootstrap-1.0.5.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2919143622,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "io",
-            "fingerprint": 2866411657,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE-MixinBootstrap",
-            "fingerprint": 3584814497,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE-classloaderutils",
-            "fingerprint": 1065284868,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 30393446,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE.txt",
-            "fingerprint": 3933732671,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2683462983,
-        "gameVersion": [
-          "1.14.4",
-          "1.16.5",
-          "Forge",
-          "1.15.2",
-          "1.16.4",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "MixinBootstrap-1.0.5.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-16T10:25:00.4458941Z",
       "dateUpdated": "2021-06-16T10:25:00.4698298Z",
       "dateLastUpdateAttempted": "2021-06-16T10:25:00.4698298Z",
