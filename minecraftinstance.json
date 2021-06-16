@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-16T09:52:30.5466806Z",
-  "playedCount": 10,
+  "lastPlayed": "2021-06-16T11:14:15.4053537Z",
+  "playedCount": 11,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Kappar",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-06-16T10:35:27.1724035Z",
-  "lastRefreshAttempt": "2021-06-16T06:35:31.2574826-04:00",
+  "lastPreviousMatchUpdate": "2021-06-16T11:14:32.1136859Z",
+  "lastRefreshAttempt": "2021-06-16T07:14:32.6652114-04:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -7375,189 +7375,10 @@
     {
       "addonID": 223891,
       "gameInstanceID": "c8582fb7-475a-40d3-bbc7-15ee0cc00d42",
-      "installedFile": {
-        "id": 2526674,
-        "displayName": "malisisdoors-1.12.2-7.3.0.jar",
-        "fileName": "malisisdoors-1.12.2-7.3.0.jar",
-        "fileDate": "2018-02-01T09:31:04.867Z",
-        "fileLength": 1741669,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2526/674/malisisdoors-1.12.2-7.3.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 2526675,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 223896,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 10076289,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 2022220769,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "malisisdoors.png",
-            "fingerprint": 2254254345,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 249204272,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 4155197870,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 365033478,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2375017557,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "malisisdoors-1.12.2-7.3.0.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-16T10:42:07.6617354Z",
       "dateUpdated": "2021-06-16T10:42:07.6776926Z",
       "dateLastUpdateAttempted": "2021-06-16T10:42:07.6776926Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 223896,
-      "gameInstanceID": "c8582fb7-475a-40d3-bbc7-15ee0cc00d42",
-      "installedFile": {
-        "id": 2680892,
-        "displayName": "malisiscore-1.12.2-6.5.1.jar",
-        "fileName": "malisiscore-1.12.2-6.5.1.jar",
-        "fileDate": "2019-02-27T02:33:39.453Z",
-        "fileLength": 1939783,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2680/892/malisiscore-1.12.2-6.5.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1344286964,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE.txt",
-            "fingerprint": 272069732,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3059823214,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "malisiscore.png",
-            "fingerprint": 3745243041,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3884207819,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mixins.malisiscore.core.json",
-            "fingerprint": 1363995015,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mixins.malisiscore.refmap.json",
-            "fingerprint": 3563191651,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 2083600134,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2932619408,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 3926838308,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 578924288,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "malisiscore-1.12.2-6.5.1.jar"
-      },
-      "dateInstalled": "2021-06-16T10:42:07.5081459Z",
-      "dateUpdated": "2021-06-16T10:42:07.5171222Z",
-      "dateLastUpdateAttempted": "2021-06-16T10:42:07.5171222Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -12563,6 +12384,83 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 238747,
+      "gameInstanceID": "c8582fb7-475a-40d3-bbc7-15ee0cc00d42",
+      "installedFile": {
+        "id": 2739582,
+        "displayName": "1.10.1",
+        "fileName": "modnametooltip_1.12.2-1.10.1.jar",
+        "fileDate": "2019-07-11T20:34:48.003Z",
+        "fileLength": 12732,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2739/582/modnametooltip_1.12.2-1.10.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1128646582,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2616252323,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2337013883,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1481215197,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 959469784,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 563839039,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "modnametooltip_1.12.2-1.10.1.jar"
+      },
+      "dateInstalled": "2021-06-16T11:10:47.2388665Z",
+      "dateUpdated": "2021-06-16T11:10:47.4562848Z",
+      "dateLastUpdateAttempted": "2021-06-16T11:10:47.4562848Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 245453,
